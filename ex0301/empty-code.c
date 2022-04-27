@@ -1,7 +1,12 @@
 #include <stdio.h>
+/**
+ * @stdio.h: is the header file containing the declaration
+ * of prototype for the printf function.
+ */
 
 int main()
-/* int main(): declaring the main() function to be an integer function.
+/**
+ * int main(): declaring the main() function to be an integer function.
  *
  * The int tells the compiler that main() returns an integer value.
  */

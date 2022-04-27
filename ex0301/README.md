@@ -1,1 +1,1 @@
-A simple program that does nothing i.e dummy code.
+A simple program that dispays result to standard output
