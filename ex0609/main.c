@@ -2,8 +2,8 @@
 
 int main()
 {
-	int start = 0;
+        int start = 0;
 
-	printf("The starting value is %d.\n",start);
-	return(0);
+        printf("The starting value is %d.\n",start);
+        return(0);
 }
