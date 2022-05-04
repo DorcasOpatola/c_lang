@@ -1,11 +1,14 @@
-#include <stdio.h>   //Header file for the following functions
+#include <stdio.h>  
+//Header file for the following functions
 
 /**
-* This is the format for printf() function
+* This is the format for the following functions:
 */
+
+int main()
+
 int printf(const char *restrict format, ...);
 
-/**
-* This is the format for puts() function
-*/
 int puts(const char *s);
+
+int getchar(void);
