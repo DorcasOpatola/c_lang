@@ -12,3 +12,5 @@ int printf(const char *restrict format, ...);
 int puts(const char *s);
 
 int getchar(void);
+
+int putchar(int c);
