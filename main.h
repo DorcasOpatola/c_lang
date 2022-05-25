@@ -14,3 +14,5 @@ int puts(const char *s);
 int getchar(void);
 
 int putchar(int c);
+
+int scanf(const char *restrict format, ...);
