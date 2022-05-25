@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char prompt[] = "Press Enter to explode:";
+	char prompt[] = "Program to Destroy the world. \nPress Enter to explode:";
 
 	printf("%s", prompt);
 	getchar ();

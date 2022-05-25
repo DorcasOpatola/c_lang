@@ -5,9 +5,12 @@ int main()
 	int a,b,c,d;
 
 	a = 'W';
-	b = a + 24;
-	c = b + 8;
+	putchar(a);
+	b = 'o';
+	putchar(b);
+	c = 'w';
+	putchar(c);
 	d = '\n';
-	printf("%c%c%c%c",a,b,c,d);
+	putchar(d);
 	return(0);
 }

@@ -1,5 +1,5 @@
-#include <stdio.h>  
-//Header file for the following functions
+#include <stdio.h> 
+/*Header file for the following functions*/
 
 /**
 * This is the format for the following functions:
