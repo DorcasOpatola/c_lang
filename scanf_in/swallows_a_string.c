@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * The scanf() function stops reading text input at the
+ * first white space character, space, tab, or Enter key.
+ */
 int main()
 {
 	char firstname[15];
