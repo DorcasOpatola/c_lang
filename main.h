@@ -16,3 +16,5 @@ int getchar(void);
 int putchar(int c);
 
 int scanf(const char *restrict format, ...);
+
+char * fgets(char restrict s, int n, FILE restrict stream);
